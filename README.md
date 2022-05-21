@@ -1,7 +1,7 @@
 # greenhouse_economic_feasibility
 Research project **Economic Feasibility of Glasshouse Tomato Production in China — a Bio-economic Stochastic Modelling Approach**
 
-### Context: 
+### Context
 In the stage of agricultural modernization, glasshouses investments are booming in China. From 2016 to 2018, the newly built glasshouses reached 400 hectares, with a total investment value of seven billion RMB. Despite the increasing investments, little is known about the economic feasibilities and uncertainties of glasshouse investments in China. 
 
 ### Objective
